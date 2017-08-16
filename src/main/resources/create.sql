@@ -1,0 +1,3 @@
+CREATE TABLE car (
+  id INT NOT NULL,
+  name VARCHAR(60));
